@@ -1,0 +1,4 @@
+1) You must have xampp control panel.
+2) one database(railway) and 3 tables(users, bookingusers, trains) should be made on your local host.
+3) should must have little knowledge of php for changing the backend code for his/her system. 
+		(e.g knowledge of CRUD queries)
